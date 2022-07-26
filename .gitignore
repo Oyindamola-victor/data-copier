@@ -5,4 +5,3 @@ __pycache__/
 docker_env
 .DS_Store
 app/...env
-.env
