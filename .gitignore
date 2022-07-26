@@ -1,6 +1,8 @@
 dc-venv
 .idea
-.env
 .env.
 __pycache__/
 docker_env
+.DS_Store
+app/...env
+.env
