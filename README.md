@@ -1,4 +1,4 @@
 # data-copier
 
-## This application pulls data from stored json files into a postgresql Database
+## This is a Dockerized application  which pulls data from stored json files into a postgresql Database
 
